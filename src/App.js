@@ -7,7 +7,7 @@ import SearchIcon from './search.svg'
 
 //b4dc5043
 
-const API_URL = 'http://www.omdbapi.com?apikey=b4dc5043';
+const API_URL = 'https://www.omdbapi.com?apikey=b4dc5043';
 
 
 
